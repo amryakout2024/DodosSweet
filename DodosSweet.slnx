@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DodosSweet/DodosSweet.Client/DodosSweet.Client.csproj" />
+  <Project Path="DodosSweet/DodosSweet/DodosSweet.csproj" />
+</Solution>
